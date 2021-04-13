@@ -1,4 +1,4 @@
-public class main {
+public class Main {
     public static void main( String[] args ) {
         int balance = 200;
         int bonusScale = 100;
